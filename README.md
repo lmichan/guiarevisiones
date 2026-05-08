@@ -9,3 +9,15 @@ Clasificaciones de las revisiones
 2. Estáticas y Actualizadas
 3. Cualitativas y cuantitativas
 4. Sintesis e Impacto
+
+Esta guía está diseñada para exponer cada una de las revisiones con base en cinco elementos:
+1. Tipos
+2. Descripción
+3. Caracteríticas
+4. Aplicaciones
+5. Ejemplos
+
+Bibliotecas
+Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
+LivingReviews Colección de revisiones vivas
+Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura 
