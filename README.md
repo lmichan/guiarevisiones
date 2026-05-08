@@ -1,10 +1,10 @@
-*Guía para usar revisiones de literatura académica*
+**Guía para usar revisiones de literatura académica**
 
-Layla Michán-Aguirre 
-Laboratiro de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0000-0002-5798-662X
+***Layla Michán-Aguirre*** 
+Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0000-0002-5798-662X
 
-
-
+***Andrea Y. Leonor***
+Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0009-0000-6123-9486
 
 LAs revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, consisten en investigaciones que utilizan publicaciones científicas, generalmente artículos para generar nuevo conocimiento a partir del análisis, la síntesis, la integración y la estadísitca existen varios tipos de revisiones que se pueden agrupar con base en varios criterios.
 
