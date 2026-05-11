@@ -23,7 +23,7 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-## **Bibliotecas**
+**Bibliotecas**
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
 - LivingReviews Colección de revisiones vivas
 - Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura disponible en https://www.zotero.org/groups/6101018/biometaanalisis/items/M8EIH2R2/library 
