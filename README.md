@@ -1,4 +1,4 @@
-**Guía para usar revisiones de literatura académica**
+# **Guía para usar revisiones de literatura académica**
 
 ***Layla Michán-Aguirre*** 
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0000-0002-5798-662X
@@ -23,7 +23,7 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-# **Bibliotecas**
+## **Bibliotecas**
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
 - LivingReviews Colección de revisiones vivas
 - Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura disponible en https://www.zotero.org/groups/6101018/biometaanalisis/items/M8EIH2R2/library 
