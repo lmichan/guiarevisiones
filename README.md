@@ -27,3 +27,8 @@ Bibliotecas
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
 LivingReviews Colección de revisiones vivas
 Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura 
+
+
+
+
+*Agradecimientos al programa PAPIME*
