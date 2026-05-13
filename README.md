@@ -6,12 +6,12 @@ Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de
 ***Andrea Y. Leonor***
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: andrealeonor@ciencias.unam.mx | ORCID iD: https://orcid.org/0009-0000-6123-9486
 
-### Introducción 
+### ¿Qué son las revisiones científicas?
 Las revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, consisten en investigaciones que utilizan publicaciones científicas, generalmente artículos para generar nuevo conocimiento a partir del análisis, la síntesis, la integración y la estadística existen varios tipos de revisiones que se pueden agrupar con base en varios criterios.
 
 En esta guía queremos exponer de manera detallada los elementos básicos y avanzados que todo usuario debe conocer para utilizar las revisiones científicas con fluidez, para ello expondremos las caracteríticas de este tipo de literatura, las tecnologías informáticas para procesarlas, así como las aplicaciones que tienen acompañadas de ejemplos.
 
-Clasificaciones de las revisiones
+### Tipos/clasificaciones de revisiones
 1. Narrativas y Sistemáticas
 2. Estáticas y Actualizadas
 3. Cualitativas y cuantitativas
@@ -24,7 +24,19 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-### Bibliotecas
+### Cómo identificarlas 
+x
+### Anatomía de las revisiones
+x
+### Indicadores de calidad metodológica
+
+### Pasos prácticos
+
+### Ejercicio
+
+### Checklist final 
+
+### Recursos recomendados
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
 - LivingReviews Colección de revisiones vivas
 - Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura disponible en https://www.zotero.org/groups/6101018/biometaanalisis/items/M8EIH2R2/library 
