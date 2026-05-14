@@ -19,10 +19,10 @@ Las revisiones de literatura constituyen la forma mas completa y sofisticada de 
 Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas. A continuación se enlistan los principales tipos en orden de complejidad (primero las más simples metodológicamente)
 
 
-| Tipo de revisión | Definición | Su objetivo |
-| :--- | :---: | ---: |
-| Datos | Datos | Datos |
-| Datos | Datos | Datos |
+| Tipo de revisión | Definición | Su objetivo | Nombre en inglés | 
+| :--- | :---: | ---: | --: |
+| Revisión narrativa | Datos | Datos | xd |
+| Datos | Datos | Datos | xd |
 
 1. Narrativas y Sistemáticas
 2. Estáticas y Actualizadas
