@@ -21,10 +21,10 @@ Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejem
 
 | Tipo de revisión | Nombre en inglés | ¿Qué es? | Su objetivo | 
 | :--- | :---: | ---: | --: |
-| Revisión narrativa | *Narrative review/ literatura review* | Ofrece una visión general y una síntesis amplia de la investigación existente sobre un tema. No utiliza un método sistemático.| Narrar y resumir la información existente sobre un tema??? |
-| Revisión integrativa | *Integrstive review* | Revisiones que incluyen artículos elaborados con diversas metodologías (por ejemplo, investigación experimental y no experimental). | Busca correlaciones entre los diferentes métodos que integran la revisión, con el fin de identificar aspectos ausentes en uno pero presentes en otro. |
-| Datos | Datos | Datos | xd |
-| Datos | Datos | Datos | xd |
+| Revisión narrativa | *Narrative review/ literature review* | Ofrece una visión general y una síntesis amplia de la investigación existente sobre un tema. No utiliza un método sistemático.| Narrar y resumir la información existente sobre un tema??? |
+| Revisión integrativa | *Integrative review* | Revisiones que incluyen artículos elaborados con diversas metodologías (por ejemplo, investigación experimental y no experimental). | Buscar correlaciones entre los diferentes métodos que integran la revisión, con el fin de identificar aspectos ausentes en uno pero presentes en otro. |
+| Revisión crítica | *Critic review* | Una evaluación crítica que va más allá de la descripción para interpretar, analizar y sintetizar la literatura. | Dar como resultado una hipótesis o un modelo.|
+| Revisión de mapeo | *Mapping review* | Mapea y categoriza la literatura académica existente sobre un tema | Identificar lagunas de conocimiento |
 | Datos | Datos | Datos | xd |
 | Datos | Datos | Datos | xd |
 | Datos | Datos | Datos | xd |
