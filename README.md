@@ -23,11 +23,15 @@ Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejem
 | :--- | :---: | ---: | --: |
 | Revisión narrativa | *Narrative review/ literature review* | Ofrece una visión general y una síntesis amplia de la investigación existente sobre un tema. No utiliza un método sistemático.| Narrar y resumir la información existente sobre un tema??? |
 | Revisión integrativa | *Integrative review* | Revisiones que incluyen artículos elaborados con diversas metodologías (por ejemplo, investigación experimental y no experimental). | Buscar correlaciones entre los diferentes métodos que integran la revisión, con el fin de identificar aspectos ausentes en uno pero presentes en otro. |
-| Revisión crítica | *Critic review* | Una evaluación crítica que va más allá de la descripción para interpretar, analizar y sintetizar la literatura. | Dar como resultado una hipótesis o un modelo.|
+| Revisión crítica | *Critical review* | Una evaluación crítica que va más allá de la descripción para interpretar, analizar y sintetizar la literatura. | Dar como resultado una hipótesis o un modelo.|
 | Revisión de mapeo | *Mapping review* | Mapea y categoriza la literatura académica existente sobre un tema | Identificar lagunas de conocimiento |
-| Datos | Datos | Datos | xd |
-| Datos | Datos | Datos | xd |
-| Datos | Datos | Datos | xd |
+| Revisión rápida | *Rapid review* | Una revisión elaborada rápidamente con plazos limitados, manteniendo un enfoque sistemático | Permitir una rápida toma de decisiones |
+| Revisión de alcance | *Scoping review* | Revisión que delimita un conjunto de bibliografía para aclarar conceptos o investigar la metodología de la investigación. | Conocer todo el trabajo académico que se ha hecho de un tema, de una intervención (en el caso de la medicina) o de una pregunta específica. |
+| Revisión sistemática | *Systematic review* | Una revisión que, a través de métodos explícitos destinados a minimizar el sesgo, identifica, evalúa y sintetiza toda la evidencia empírica que cumpla con los criterios de elegibilidad especificados para responder a una pregunta de investigación determinada. | Su finalidad es obtener resultados más fiables sobre los efectos de las intervenciones, tratamientos y prácticas en general que puedan utilizarse para fundamentar la toma de decisiones basada en evidencia. |
+| Meta-análisis | *Meta-analysis* | Trabajo que utiliza un método cuantitativo y estadístico para combinar los resultados de artículos de investigación | Llegar a conclusiones que pueden utilizarse para evaluar la eficacia terapéutica, farmacológica, de intervenciones, entre otros. |
+| Revisión paraguas | *Umbrella review* | Es una revisión de revisiones sistemáticas | Recabar lo que se sabe sobre una intervención y recomendaciones para la práctica; así como lo que aún se desconoce y recomendaciones para futuras investigaciones. |
+| Revisión viva | *Living review* | Revisión de cualquier tipo de los anteriores que es continuamente actualizada, puesto que incorpora nuevos artículos científicos disponibles. | Mantener revisiones de alta calidad constantemente actualizadas para que la información vigente sea utilizada en la toma de decisiones. |
+| Datos | Datos | Datos | Datos |
 
 1. Narrativas y Sistemáticas
 2. Estáticas y Actualizadas
