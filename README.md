@@ -45,10 +45,24 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-### Cómo identificarlas 
-x
 ### Anatomía de las revisiones
+Ahora conozcamos la estructura general que tienen las revisiones y qué puedes encontrar en cada sección
+
+| Sección de la revisión | Contenido / Qué puedes esperar de ella |
+| ------------ | ------------ |
+| Título | Celda 1,2    |
+| Resumen | Celda 2,2    |
+| Introducción | Celda 2,2    |
+| Metodología | Celda 2,2    |
+| Resultados | Celda 2,2    |
+| Discusión | Celda 2,2    |
+| Conclusión | Celda 2,2    |
+| Material suplementario | Celda 2,2    |
+
+
+### Cómo identificarlas/interpretarlas  
 x
+
 ### Indicadores de calidad metodológica
 
 ### Pasos prácticos
@@ -59,7 +73,7 @@ x
 
 ### Recursos recomendados
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
-- LivingReviews Colección de revisiones vivas
+- LivingReviews Colección de revisiones vivas 
 - Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura disponible en https://www.zotero.org/groups/6101018/biometaanalisis/items/M8EIH2R2/library 
 
 
