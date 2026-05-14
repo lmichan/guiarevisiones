@@ -53,14 +53,14 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 
 | Sección de la revisión | Contenido / Qué puedes esperar de ella |
 | ------------ | ------------ |
-| **Título** | Se suele encontrar el tipo de revisión |
-| **Resumen** | Celda 2,2    |
-| **Introducción** | Celda 2,2    |
-| **Metodología** | Celda 2,2    |
-| **Resultados** | Celda 2,2    |
-| **Discusión** | Celda 2,2    |
-| **Conclusión** | Celda 2,2    |
-| **Material suplementario** | Celda 2,2    |
+| Título | Se suele encontrar el tipo de revisión |
+| Resumen | Celda 2,2    |
+| Introducción | Celda 2,2    |
+| Metodología | Celda 2,2    |
+| Resultados | Celda 2,2    |
+| Discusión | Celda 2,2    |
+| Conclusión | Celda 2,2    |
+| Material suplementario | Celda 2,2    |
 
 
 ### Cómo identificarlas/interpretarlas  
