@@ -9,6 +9,8 @@ Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de
 ### Esta guía es para...
 Esta guía está destinada a toda persona que desee adentrarse en el maravilloso mundo de las revisiones de literatura académica; aquí se enseñará de manera detallada qué son y los elementos básicos y avanzados que todo usuario debe conocer para utilizarlas con fluidez. Además, se responderán preguntas como ¿Cómo interpretarlas sin leerlas completamente? ¿Cómo seleccionarlas para potenciar mis trabajos académicos? ¿Dónde buscarlas? Entre otras. 
 
+La guía consta de tres partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se exploran la estructura de las mismas, con el fin de saber dónde buscar; finalmente, la tercera parte explora ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
+
 Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisiones, reconocer los objetivos metodológicos de las mismas y cómo sus resultados pueden fortalecer tus propias investigaciones. 
 
 ## PARTE 1
