@@ -13,7 +13,7 @@ La guía consta de tres partes: en la primera se definen las revisiones y sus ti
 
 Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisiones, reconocer los objetivos metodológicos de las mismas y cómo sus resultados pueden fortalecer tus propias investigaciones. 
 
-## PARTE 1. ESTO SON:
+## PARTE 1. Esto son:
 ### ¿Qué son las revisiones científicas?
 Las revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, puesto que, mientras que los artículos de investigación (comúnmente llamados papers) se caracterizan por presentar nuevo conocimiento, las revisiones analizan un conjunto de artículos de investigación con el objetivo de integrar y sintetizar el conocimiento acumulado en lo que se ha publicado sobre ese tema. 
 
@@ -47,7 +47,7 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-## PARTE 2: CONOCIÉNDOLAS
+## PARTE 2: Esto contienen:
 ### Anatomía de las revisiones
 Ahora conozcamos la estructura general que tienen las revisiones y qué puedes encontrar en cada sección
 
