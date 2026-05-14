@@ -22,7 +22,6 @@ Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejem
 | Tipo de revisión | Definición | Su objetivo |
 | :--- | :---: | ---: |
 | Datos | Datos | Datos |
-| :--- | :---: | ---: |
 | Datos | Datos | Datos |
 
 1. Narrativas y Sistemáticas
