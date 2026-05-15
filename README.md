@@ -86,7 +86,7 @@ Puedes encontrar esta información en el título o en el resumen
 ### Plus: indicadores de calidad metodológica
 | Red flags 🚩 | Green flags ✅ |
 |---|---|
-| <ul><li>No dicen cómo buscaron la información</li><li>No dicen cuántos estudios incluyeron</li><li>No explican criterios de inclusión/exclusión</li><li>Concluye más de los que sus datos permiten</li><li>No diferencian entre ausencia de evidencia y evidencia de ausencia</li></ul> | <ul><li>Explican claramente la estrategia de búsqueda</li><li>Reportan cuántos estudios incluyeron</li><li>Describen criterios de selección</li></ul> |
+| <ul><li>No dicen cómo buscaron la información</li><li>No dicen cuántos estudios incluyeron</li><li>No explican criterios de inclusión/exclusión</li><li>Concluye más de los que sus datos permiten</li><li>No diferencian entre ausencia de evidencia y evidencia de ausencia</li></ul> | <ul><li>Explican claramente la estrategia de búsqueda</li><li>Hicieron una búsqueda replicable</li><li>Tienen criterios de inclusión y exclusión bien definidos</li><li>Tienen conclusiones proporcionales a la evidencia </li><ul> |
 
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
