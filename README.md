@@ -83,7 +83,15 @@ Puedes encontrar esta información en el título o en el resumen
 
 **Paso 8.** Evalúa la conclusión
 
-### Indicadores de calidad metodológica
+### Plus: indicadores de calidad metodológica
+| Red flags 🚩| Green flags ✅ |
+| ------------ | ------------ |
+| -No dicen cómo buscaron la información 
+- No dice cuántos estudios incluyeron
+- | Se suele encontrar el tipo de revisión en cuestión |
+| Resumen o Abstract | Celda 2,2 |
+| Introducción | Celda 2,2  |
+| Metodología | Celda 2,2  |
 
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
