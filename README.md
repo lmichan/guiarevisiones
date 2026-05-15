@@ -63,8 +63,25 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 | Material suplementario | Celda 2,2  |
 
 
-### Cómo identificarlas/interpretarlas  
-x
+### Paso a paso: Cómo identificarlas/interpretarlas  
+**Paso 1.** Identifica el tipo de revisión 
+Puedes encontrar esta información en el título o en el resumen 
+
+**Paso 2.** Ubica la pregunta de investigación
+¿Qué se quería saber con la revisión? Esto suele encontrarse en... 
+
+**Paso 3.** Revisa dónde buscaron
+¿Qué bases de datos usaron? Esta información es opcional y puedes consultarla solo si deseas profundizar en la exploración de la revisión 
+
+**Paso 4.** Revisa qué tipo de artículos analizaron y cuáles excluyeron
+
+**Paso 5.** Identifica cuántos estudios analizaron 
+
+**Paso 6.** Interpreta los resultados principales
+
+**Paso 7.** Lee las limitaciones
+
+**Paso 8.** Evalúa la conclusión
 
 ### Indicadores de calidad metodológica
 
