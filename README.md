@@ -84,14 +84,9 @@ Puedes encontrar esta información en el título o en el resumen
 **Paso 8.** Evalúa la conclusión
 
 ### Plus: indicadores de calidad metodológica
-| Red flags 🚩| Green flags ✅ |
-| ------------ | ------------ |
-| -No dicen cómo buscaron la información 
-- No dice cuántos estudios incluyeron
-- | Se suele encontrar el tipo de revisión en cuestión |
-| Resumen o Abstract | Celda 2,2 |
-| Introducción | Celda 2,2  |
-| Metodología | Celda 2,2  |
+| Red flags 🚩 | Green flags ✅ |
+|---|---|
+| <ul><li>No dicen cómo buscaron la información</li><li>No dicen cuántos estudios incluyeron</li><li>No explican criterios de inclusión/exclusión</li></ul>Concluye más de los que sus datos permiten</li><li>No diferencian entre ausencia de evidencia y evidencia de ausencia</li><li> | <ul><li>Explican claramente la estrategia de búsqueda</li><li>Reportan cuántos estudios incluyeron</li><li>Describen criterios de selección</li></ul> |
 
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
