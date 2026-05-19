@@ -54,7 +54,7 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 | Sección de la revisión | Contenido / Qué puedes esperar de ella |
 | ------------ | ------------ |
 | Título | Se suele encontrar el tipo de revisión en cuestión |
-| Resumen o Abstract | Celda 2,2 |
+| Resumen o Abstract | Celda 2, |
 | Introducción | Celda 2,2  |
 | Metodología | Celda 2,2  |
 | Resultados | Celda 2,2  |
