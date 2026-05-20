@@ -99,7 +99,7 @@ Puedes encontrar esta información en el título o en el resumen
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
 ### Plantilla a llenar cuando tengas una revisión
-A continuación te proponemos una plantilla descargable que puedes llenar para todas las revisiones que desees interpretar:
+A continuación te proponemos un formulario descargable que puedes llenar para todas las revisiones que desees interpretar:
 
 
 ### Ejercicio
