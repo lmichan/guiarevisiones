@@ -42,6 +42,7 @@ Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejem
 | Revisión viva | *Living review* | Revisión de cualquier tipo de los anteriores que es continuamente actualizada, puesto que incorpora nuevos artículos científicos disponibles. | Mantener revisiones de alta calidad constantemente actualizadas para que la información vigente sea utilizada en la toma de decisiones. |
 | Datos | Datos | Datos | Datos |
 
+### Diferentes criterios de clasificación
 1. Narrativas y Sistemáticas
 2. Estáticas y Actualizadas
 3. Cualitativas y cuantitativas
