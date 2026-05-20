@@ -14,7 +14,7 @@ Esta guía está destinada a toda persona que desee adentrarse en el maravilloso
 - ¿Cómo explorarlas?
 - ¿Cómo seleccionar las más relevante para potenciar mis trabajos académicos? 
 
-La guía consta de tres partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se exploran la estructura de las mismas, con el fin de saber dónde buscar; finalmente, la tercera parte explora ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
+La guía consta de tres partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se aprenderá a buscarlas y usarlas, mientras que la tercera parte explora la estructura de las mismas; finalmente, la tercera parte explora ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
 
 Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisiones, reconocer los objetivos metodológicos de las mismas y cómo sus resultados pueden fortalecer tus propias investigaciones. 
 
