@@ -21,7 +21,7 @@ Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisio
 ## PARTE 1. Esto son:
 En esta parte nos centraremos en qué son las revisiones
 
-### ¿Qué son las revisiones científicas?
+**¿Qué son las revisiones científicas?**
 Las revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, puesto que, mientras que los artículos de investigación (comúnmente llamados papers) se caracterizan por presentar nuevo conocimiento, las revisiones analizan un conjunto de artículos de investigación con el objetivo de integrar y sintetizar el conocimiento acumulado en lo que se ha publicado sobre ese tema. 
 
 ### Tipos/clasificación de revisiones
