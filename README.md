@@ -7,7 +7,12 @@ Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: andrealeonor@ciencias.unam.mx | ORCID iD: https://orcid.org/0009-0000-6123-9486
 
 ### Esta guía es para ti si...
-Esta guía está destinada a toda persona que desee adentrarse en el maravilloso mundo de las revisiones de literatura académica; aquí se enseñará de manera detallada qué son y los elementos básicos y avanzados que todo usuario debe conocer para utilizarlas con fluidez. Además, se responderán preguntas como ¿Cómo interpretarlas sin leerlas completamente? ¿Cómo seleccionarlas para potenciar mis trabajos académicos? ¿Dónde buscarlas? Entre otras. 
+Esta guía está destinada a toda persona que desee adentrarse en el maravilloso mundo de las revisiones de literatura académica; aquí se enseñará de manera detallada qué son y cuáles son los elementos tanto básicos como avanzados, que todo usuario debe conocer para utilizarlas con fluidez. Además, se responderán algunas preguntas: 
+- ¿Qué son?
+- ¿Cómo buscarlas?
+- ¿Cómo identificarlas?
+- ¿Cómo explorarlas?
+- ¿Cómo seleccionar las más relevante para potenciar mis trabajos académicos? 
 
 La guía consta de tres partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se exploran la estructura de las mismas, con el fin de saber dónde buscar; finalmente, la tercera parte explora ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
 
