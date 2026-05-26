@@ -1,31 +1,50 @@
 # **Guía para usar revisiones de literatura académica**
 
-***Layla Michán-Aguirre*** 
+***Layla Michán*** 
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0000-0002-5798-662X
 
 ***Andrea Y. Leonor***
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: andrealeonor@ciencias.unam.mx | ORCID iD: https://orcid.org/0009-0000-6123-9486
 
+##✒️Resumen
+en este documento explicamos todo lo que un usuario debe saber para interactur con las revisiones de literatura científica, de tal manera que se capaz de aprender que son, cómo identificarlas, dónde y cómo buscarlas, establecer su nivel de calidad, entender los resultados, reusarlas e incluso escribirlas. Este es un documento dinámico que iremos completando y actualizando continuamente.
+
+##🧰Recursos
+Asociada a esta guía hay varios recursos que constituyen todo un ecosistema digital dedicado a las revisiones científicas desde distintas dimensiones.
+📚Bibliografía usada en la guía https://www.zotero.org/groups/6567111/guiarevisiones/library
+
+
 ### Esta guía es para ti si...
-Esta guía está destinada a toda persona que desee adentrarse en el maravilloso mundo de las revisiones de literatura académica; aquí se enseñará de manera detallada qué son y cuáles son los elementos tanto básicos como avanzados, que todo usuario debe conocer para utilizarlas con fluidez. Además, se responderán algunas preguntas: 
+Esta guía está destinada a toda persona que desee adentrarse en el interesante y maravilloso mundo de las revisiones de literatura académica; aquí se mostrará de manera simple pero detallada qué son, cuáles son sus elementos, tanto básicos como avanzados, cómo se usan y las tendencia actuales que todo usuario debe conocer para utilizarlas con fluidez. Para cumplir con nuestro objetivo se responderán algunas preguntas clave como: 
 - ¿Qué son?
 - ¿Cómo buscarlas?
 - ¿Cómo identificarlas?
 - ¿Cómo explorarlas?
-- ¿Cómo seleccionar las más relevante para potenciar mis trabajos académicos? 
+- ¿Cómo seleccionar las más relevantes para potenciar los trabajos académicos? 
 
-La guía consta de tres partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se aprenderá a buscarlas y usarlas, mientras que la tercera parte explora la estructura de las mismas; finalmente, la tercera parte explora ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
+Esta guía consta de cuatro partes: en la primera se definen las revisiones y sus tipos, en la segunda parte se aprenderá a buscarlas y usarlas, mientras que la tercera parte explora la estructura de las mismas; finalmente, la cuarta parte presenta ejemplos y deja ejercicios, recursos y plantillas útiles para el lector
 
 Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisiones, reconocer los objetivos metodológicos de las mismas y cómo sus resultados pueden fortalecer tus propias investigaciones. 
 
 ## PARTE 1. Esto son:
-En esta parte nos centraremos en qué son las revisiones
+En esta parte nos centraremos en qué son las revisiones, hablaremos de su historia y sus características.
+Una revisión de literatura consiste en un trabajo de investigación que utiliza como fuente documentos, generalmente son artículos científicos o ensayos clínicos, aunque se puede hacer usando cualquier tipo documental. 
+en este caso nos interesan las revisiones académicas publicadas en revistas que hacer revisión por pares, y en especial las que tratan sobre temas científicos.
 
 **¿Qué son las revisiones científicas?**
-Las revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, puesto que, mientras que los artículos de investigación (comúnmente llamados papers) se caracterizan por presentar nuevo conocimiento, las revisiones analizan un conjunto de artículos de investigación con el objetivo de integrar y sintetizar el conocimiento acumulado en lo que se ha publicado sobre ese tema. Y sus principales características son: 
+Las revisiones de literatura constituyen la forma mas completa y sofisticada de reunir el conocimiento científico, puesto que, mientras que los artículos de investigación (comúnmente llamados papers) se caracterizan por presentar nuevo conocimiento, las revisiones analizan un conjunto de artículos de investigación con el objetivo de integrar y sintetizar el conocimiento acumulado en lo que se ha publicado sobre ese tema. Y sus principales características son:
+1. Reunen literatura relevante para un tema determinado.
+2. Hacen un análisis cualitativo o cuantitativo de la información.
+3. Establecen un objetivo determinado, como conocer el estado del arte, evaluar evidencia o analizar metadatos de la literatura.
 
 ### Tipos/clasificación de revisiones
-Existen muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas. A continuación se enlistan los principales tipos en orden de complejidad (primero las más simples metodológicamente)
+Las revisiones de literatura se pueden clasificar con base en varios criterios, por lo que es posible encontrar muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas, inluso pueden usar combinaciones de varios tipos, veamos algunas categorías.
+a) **Revisiones cualitativas y cuantitativas**, las primeras se centran solo en hacer una exposición simple de la literatura analizada utilizando criterios cronológicos, por fecha de publicación con interés histórico, centrada en los autores o en algunos temas. Por otro lado los cuantitativos se caracterizan por implementar análisis de datos numericos, estadíticos o bibliometricos, por ejemplo.
+b) **Revisiones narrativas y sistemáticas,** se diferencian en que unas se centran en contar una historia,exponer algún argumento, discutir ideas y explorar contenidos y las otras se centran en seguir un método definido y replicable que obtengan un resultado cuantificable sobre si la evidencia de todos los estudios sostiene o no la hipótesis planteada en la pregunta. Ambas usan literatura pero hacen procesos distintos con ella.
+b) **Revisiones de evidencia o de impacto,** en este caso las distinción se basa en sí lo que se obtiene de la literatura es evidencia o el análisis del impacto que esta tiene
+
+
+A continuación se enlistan los principales tipos en orden de complejidad (primero las más simples metodológicamente)
 
 
 | Tipo de revisión | Nombre en inglés | ¿Qué es? | Su objetivo | 
@@ -115,3 +134,4 @@ Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
 
 
 *Agradecimientos al programa PAPIME*
+Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625 https://github.com/lmichan/BIOliteraturaPE203625
