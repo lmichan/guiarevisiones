@@ -28,7 +28,8 @@ Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisio
 
 ## PARTE 1. Esto son:
 En esta parte nos centraremos en qué son las revisiones, hablaremos de su historia y sus características.
-Una revisión de literatura consiste en un trabajo de investigación que utiliza como fuente documentos, generalmente son artículos científicos o ensayos clínicos, aunque se puede hacer usando cualquier tipo documental. 
+
+Una revisión de literatura consiste en un trabajo de investigación que utiliza como fuente documentos, generalmente son artículos científicos o ensayos clínicos, aunque se puede hacer usando cualquier tipo documental, el objetivo siempre es reunir la literatura mas relevante, integrarla, exponerla y explicarla. 
 en este caso nos interesan las revisiones académicas publicadas en revistas que hacer revisión por pares, y en especial las que tratan sobre temas científicos.
 
 **¿Qué son las revisiones científicas?**
@@ -38,13 +39,26 @@ Las revisiones de literatura constituyen la forma mas completa y sofisticada de 
 3. Establecen un objetivo determinado, como conocer el estado del arte, evaluar evidencia o analizar metadatos de la literatura.
 
 ### Tipos/clasificación de revisiones
-Las revisiones de literatura se pueden clasificar con base en varios criterios, por lo que es posible encontrar muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas, inluso pueden usar combinaciones de varios tipos, veamos algunas categorías.
-a) **Revisiones cualitativas y cuantitativas**, las primeras se centran solo en hacer una exposición simple de la literatura analizada utilizando criterios cronológicos, por fecha de publicación con interés histórico, centrada en los autores o en algunos temas. Por otro lado los cuantitativos se caracterizan por implementar análisis de datos numericos, estadíticos o bibliometricos, por ejemplo.
-b) **Revisiones narrativas y sistemáticas,** se diferencian en que unas se centran en contar una historia,exponer algún argumento, discutir ideas y explorar contenidos y las otras se centran en seguir un método definido y replicable que obtengan un resultado cuantificable sobre si la evidencia de todos los estudios sostiene o no la hipótesis planteada en la pregunta. Ambas usan literatura pero hacen procesos distintos con ella.
-b) **Revisiones de evidencia o de impacto,** en este caso las distinción se basa en sí lo que se obtiene de la literatura es evidencia o el análisis del impacto que esta tiene
+Las revisiones de literatura se pueden clasificar con base en varios criterios, por lo que es posible encontrar muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas, inluso pueden usar combinaciones de varios tipos, veamos algunas categorías que hemos identificado:
+Cualitativas y cuantitativas
+Narrativas y Sistemáticas
+Sintesis e Impacto
+Estáticas y Actualizadas
+Revisiones y Meta-revisiones. 
 
 
-A continuación se enlistan los principales tipos en orden de complejidad (primero las más simples metodológicamente)
+**Revisiones cualitativas y cuantitativas**, las primeras se centran solo en hacer una exposición simple de la literatura analizada utilizando criterios cronológicos, por fecha de publicación con interés histórico, centrada en los autores o en algunos temas. Por otro lado los cuantitativos se caracterizan por implementar análisis de datos numericos, estadíticos o bibliometricos, por ejemplo.
+
+**Revisiones narrativas y sistemáticas,** se diferencian en que unas se centran en contar una historia,exponer algún argumento, discutir ideas y explorar contenidos y las otras se centran en seguir un método definido y replicable que obtengan un resultado cuantificable sobre si la evidencia de todos los estudios sostiene o no la hipótesis planteada en la pregunta. Ambas usan literatura pero hacen procesos distintos con ella.
+Revisiones de evidencia o de impacto,** en este caso las distinción se basa en sí lo que se obtiene de la literatura es evidencia o el análisis del impacto que esta tiene.
+
+**Revisiones de síntesis de evidencia y de impacto del conocimiento**, esta división se basa en un criterio epistemológico, y establece si lo que se evalua al integrar las publicaciones es la evidencia o el impacto que tienen.
+
+**Revisiones estáticas y actualizadas**, Las revisiones fijas, estáticas o tradicionales son aquellas que se publicaron y no han sido actualizadas. Por el contrario las denominadas "living review" conocidas en español como vivas o actualizadas, son aquellas que se modifican conforme se publican nuevos estudios, en este enlace hemos reunido muchas de este tipo https://github.com/lmichan/LivingReviews.
+
+**Revisiones y Meta-revisiones**. Las primeras son revisiones de artículos (literatura primaria), las segundas son revisiones de revisiones (literatura secundaria), en esta segunda categoría están las umbrella review.
+
+A continuación se enlistan los principales tipos de revisiones en orden de complejidad primero las más simples (metodológicamente) y luego lo más complejos:
 
 
 | Tipo de revisión | Nombre en inglés | ¿Qué es? | Su objetivo | 
@@ -61,11 +75,6 @@ A continuación se enlistan los principales tipos en orden de complejidad (prime
 | Revisión viva | *Living review* | Revisión de cualquier tipo de los anteriores que es continuamente actualizada, puesto que incorpora nuevos artículos científicos disponibles. | Mantener revisiones de alta calidad constantemente actualizadas para que la información vigente sea utilizada en la toma de decisiones. |
 | Datos | Datos | Datos | Datos |
 
-### Diferentes criterios de clasificación
-1. Narrativas y Sistemáticas
-2. Estáticas y Actualizadas
-3. Cualitativas y cuantitativas
-4. Sintesis e Impacto
 
 Esta guía está diseñada para exponer cada una de las revisiones con base en cinco elementos:
 1. Tipos
@@ -109,6 +118,17 @@ Puedes encontrar esta información en el título o en el resumen
 **Paso 7.** Lee las limitaciones
 
 **Paso 8.** Evalúa la conclusión
+
+###Las herramientas
+Existen una gran cantidad de tecnologías informáticas que se han utilizado para realizar revisiones de literatura, en esta sección nos dedicaremos a enumerararlas y explicarlas.
+
+Preregistro
+Protocolos
+Chrocane
+
+
+**AI**
+https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+intelligence%22%5BTitle%5D+review%5BTitle%5D%29+AND+%28%28%222026%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D%29%29&sort=pubdate&filter=pubt.review&filter=pubt.review
 
 ### Plus: indicadores de calidad metodológica
 | Red flags 🚩 | Green flags ✅ |
