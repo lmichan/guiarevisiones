@@ -126,9 +126,18 @@ Puedes encontrar esta información en el título o en el resumen
 Existen una gran cantidad de tecnologías informáticas que se han utilizado para realizar revisiones de literatura, en esta sección nos dedicaremos a enumerararlas y explicarlas.
 
 Preregistro
+
+Bases de datos
+Google Scholar
+Scopus
+Web of Science
+PubMed
+
 Protocolos
 Chrocane
 Prisma
+
+Zotero
 Saquat
 
 
