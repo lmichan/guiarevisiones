@@ -43,7 +43,7 @@ Las revisiones de literatura se pueden clasificar con base en varios criterios, 
 *Cualitativas y cuantitativas
 *Narrativas y Sistemáticas
 *Sintesis e Impacto
-*Automatizads y No automatizadas (https://link.springer.com/article/10.1186/s13643-024-02592-3)
+*Automatizads y No automatizadas
 *Estáticas y Actualizadas
 *Revisiones y Meta-revisiones 
 
@@ -56,6 +56,8 @@ Revisiones de evidencia o de impacto,** en este caso las distinción se basa en 
 **Revisiones de síntesis de evidencia y de impacto del conocimiento**, esta división se basa en un criterio epistemológico, y establece si lo que se evalua al integrar las publicaciones es la evidencia o el impacto que tienen.
 
 **Revisiones estáticas y actualizadas**, Las revisiones fijas, estáticas o tradicionales son aquellas que se publicaron y no han sido actualizadas. Por el contrario las denominadas "living review" conocidas en español como vivas o actualizadas, son aquellas que se modifican conforme se publican nuevos estudios, en este enlace hemos reunido muchas de este tipo https://github.com/lmichan/LivingReviews.
+
+**Automatizadas y No automatizadas**, La automatización de las revisiones sistemáticas (RS) se realiza mediante métodos s de inteligencia artificial (IA) y tecnologías informáticas avanzadas (https://link.springer.com/article/10.1186/s13643-024-02592-3)
 
 **Revisiones y Meta-revisiones**. Las primeras son revisiones de artículos (literatura primaria), las segundas son revisiones de revisiones (literatura secundaria), en esta segunda categoría están las umbrella review.
 
