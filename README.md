@@ -40,11 +40,12 @@ Las revisiones de literatura constituyen la forma mas completa y sofisticada de 
 
 ### Tipos/clasificación de revisiones
 Las revisiones de literatura se pueden clasificar con base en varios criterios, por lo que es posible encontrar muchos tipos de revisiones, dentro de los cuales se encuentran, por ejemplo, revisiones narrativas, revisiones de alcance y revisiones sistemáticas, inluso pueden usar combinaciones de varios tipos, veamos algunas categorías que hemos identificado:
-Cualitativas y cuantitativas
-Narrativas y Sistemáticas
-Sintesis e Impacto
-Estáticas y Actualizadas
-Revisiones y Meta-revisiones. 
+*Cualitativas y cuantitativas
+*Narrativas y Sistemáticas
+*Sintesis e Impacto
+*Automatizads y No automatizadas (https://link.springer.com/article/10.1186/s13643-024-02592-3)
+*Estáticas y Actualizadas
+*Revisiones y Meta-revisiones 
 
 
 **Revisiones cualitativas y cuantitativas**, las primeras se centran solo en hacer una exposición simple de la literatura analizada utilizando criterios cronológicos, por fecha de publicación con interés histórico, centrada en los autores o en algunos temas. Por otro lado los cuantitativos se caracterizan por implementar análisis de datos numericos, estadíticos o bibliometricos, por ejemplo.
