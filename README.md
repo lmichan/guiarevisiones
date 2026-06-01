@@ -6,10 +6,10 @@ Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de
 ***Andrea Y. Leonor***
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: andrealeonor@ciencias.unam.mx | ORCID iD: https://orcid.org/0009-0000-6123-9486
 
-##✒️Resumen
+## ✒️Resumen
 en este documento explicamos todo lo que un usuario debe saber para interactur con las revisiones de literatura científica, de tal manera que se capaz de aprender que son, cómo identificarlas, dónde y cómo buscarlas, establecer su nivel de calidad, entender los resultados, reusarlas e incluso escribirlas. Este es un documento dinámico que iremos completando y actualizando continuamente.
 
-##🧰Recursos
+## 🧰Recursos
 Asociada a esta guía hay varios recursos que constituyen todo un ecosistema digital dedicado a las revisiones científicas desde distintas dimensiones.
 📚Bibliografía usada en la guía https://www.zotero.org/groups/6567111/guiarevisiones/library
 
