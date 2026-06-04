@@ -99,7 +99,7 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 | Resultados | Celda 2,2  |
 | Discusión | Celda 2,2 |
 | Conclusión | Celda 2,2  |
-| Material suplementario | Celda 2,2  |
+| Material suplementario | Celda 2,  |
 
 
 ### Paso a paso: Cómo identificarlas/interpretarlas  
