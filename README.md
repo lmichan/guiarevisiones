@@ -1,4 +1,4 @@
-# **Hola**
+# **Guía para usar revisiones de literatura académica**
 
 ***Layla Michán*** 
 Laboratorio de Bioinformación, Departamento de Biología Comparada, Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México (México) Correo-e: laylamichan@ciencias.unam.mx | ORCID iD: https://orcid.org/0000-0002-5798-662X
